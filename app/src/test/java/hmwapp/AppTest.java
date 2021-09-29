@@ -37,7 +37,6 @@ class AppTest {
         Integer i = 5;
         assertTrue(App.meanCompareOfTwoArrays(arr1, arr2, i, 0));
 
-
     }
 
     @Test

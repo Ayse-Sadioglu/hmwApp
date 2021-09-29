@@ -1,8 +1,13 @@
 package hmwapp;
 
 import java.lang.*;
+import java.sql.SQLOutput;
 
-public class App { //arraylerin elemanlarının ortalamsı gelen sayıya esitse true
+//**
+//
+//
+//
+public class App {
     public static boolean meanCompareOfTwoArrays(int[] arr1, int arr2[], Integer i, int k) {
         int sum=0;
         int mean;
@@ -12,6 +17,7 @@ public class App { //arraylerin elemanlarının ortalamsı gelen sayıya esitse 
         }
         for (int j=0;j<arr2.length;j++){
             sum+=arr2[j];
+            System.out.println("");
         }
         mean=sum/(arr1.length+arr2.length);
 
