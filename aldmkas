@@ -1,0 +1,41 @@
+[33mcommit 4186211df04a00792a67755d778c87494b72f2c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Thu Sep 30 23:45:46 2021 +0300
+
+    Getting ready for deployment to Heroku
+
+[33mcommit 3645629e68c086a961fca0362d6fb37b85d3dce4[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Wed Sep 29 14:10:10 2021 +0300
+
+    Added build status image to README.md file
+
+[33mcommit 94baec0847abbca5d48b63355f921274a05f3934[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Wed Sep 29 13:57:04 2021 +0300
+
+    Setting up continuous integration
+
+[33mcommit 51a3677ef458b496c45e9c40b51bb259a54df987[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Sat Sep 25 22:48:38 2021 +0300
+
+    Setting up continuous integration
+
+[33mcommit 37ddb5177c15661dd0838a9780ddaa1c9a350c68[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Sat Sep 25 22:16:35 2021 +0300
+
+    Setting up continuous integration
+
+[33mcommit 48694c0ad7746c34219e627e97484d9930cdbf65[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Sat Sep 25 21:53:22 2021 +0300
+
+    Setting up continous integration
+
+[33mcommit 8b87ae6f55f039e84473c481d85a45ef0f8bcc16[m
+Author: Ayse <asadioglu@etu.edu.tr>
+Date:   Sat Sep 25 21:38:21 2021 +0300
+
+    project started

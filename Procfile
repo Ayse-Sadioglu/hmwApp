@@ -1,2 +1,1 @@
-web: java -jar build/libs/hmwapp-all.jar
-
+web: java -jar build/libs/app-all.jar
