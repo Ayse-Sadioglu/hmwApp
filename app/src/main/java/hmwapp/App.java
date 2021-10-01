@@ -5,6 +5,7 @@ import java.lang.*;
 import static spark.Spark.get;
 import static spark.Spark.port;
 import static spark.Spark.post;
+import static spark.Spark.port;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -41,8 +42,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-
-
 
 
 
